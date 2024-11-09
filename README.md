@@ -9,8 +9,4 @@
 - 📫 联系方式：<lingyun2311@gmail.com>
 - 😄 有趣的事实：不编码时，我通常在网上探索新技术或阅读好的技术博客
 
-<div style="text-align: center;">
-    <a href="https://quira.sh?utm_source=widgets&utm_campaign=mlinyun">
-        <img src="https://stats.quira.sh/mlinyun/languages-over-time?theme=dark" alt="mlinyun's GitHub | Languages Over Time" style="width: 80%;">
-    </a>
-</div>
+[![mlinyun's GitHub | Stats](https://stats.quira.sh/mlinyun/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=mlinyun)
