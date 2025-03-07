@@ -8,5 +8,3 @@
 - 💬 欢迎问我任何有关前端开发或实习经历的问题！
 - 📫 联系方式：<lingyun2311@gmail.com>
 - 😄 有趣的事实：不编码时，我通常在网上探索新技术或阅读好的技术博客
-
-[![mlinyun's GitHub | Stats](https://stats.quira.sh/mlinyun/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=mlinyun)
